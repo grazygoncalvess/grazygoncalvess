@@ -1,16 +1,22 @@
-### Hi there 👋
+# Olá, me chamo Grazyella Gonçalves! 🌿
+Sou estudante de desenvolvimento de sistemas, apaixonada por jogos e pela língua inglesa! 
+Atualmente estudo linguagem java pela universidade, como também desenvolvimento front-end pela alura.
 
-<!--
-**grazygoncalvess/grazygoncalvess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+📖 Inglês | Português
+<br/> 📍 Recife, Pernambuco
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img align='center' alt='html5' src='https://i.pinimg.com/originals/93/9e/92/939e9273e3d6ef4f281cda31e9e62488.gif'/>
+
+
+# Linguagens que estudo : 
+<div style='display: inline_block'>
+    <img align='center' alt='html5' src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white'/>
+    <img align='center' alt='html5' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'/>
+    <img align='center' alt='html5' src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white'/>
+
+</div> <br/>
+
+
+## 

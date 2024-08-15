@@ -9,6 +9,10 @@ Atualmente estudo linguagem java pela universidade, como também desenvolvimento
 
 <img align='center' alt='html5' src='https://i.pinimg.com/originals/93/9e/92/939e9273e3d6ef4f281cda31e9e62488.gif'/>
 
+## :point_right: Onde me encontrar:
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatrizdev/)
+</a>
 
 ## :keyboard: Hard Skills:
 

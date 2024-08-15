@@ -10,9 +10,10 @@ Atualmente estudo linguagem java pela universidade, como também desenvolvimento
 <img align='center' alt='html5' src='https://i.pinimg.com/originals/93/9e/92/939e9273e3d6ef4f281cda31e9e62488.gif'/>
 
 
-# Linguagens que estudo : 
-<div style='display: inline_block'>
-    <img align='center' alt='html5' src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white'/>
+## :keyboard: Hard Skills:
+
+[![My Skills](https://skillicons.dev/icons?i=java,css,html,figma,idea,vscode&theme=dark)](https://skillicons.dev)
+> Soft Skills: Organização, trabalho em equipe, responsabilidade acerca de projetos e adaptabilidade.
 
 </div> <br/>
 

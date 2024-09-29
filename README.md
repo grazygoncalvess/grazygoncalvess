@@ -11,7 +11,7 @@ Atualmente estudo linguagem java pela universidade, como também desenvolvimento
 
 ## :point_right: Onde me encontrar:
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatrizdev/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/beatrizdev/](https://www.linkedin.com/in/grazygon%C3%A7alves))
 </a>
 
 ## :keyboard: Hard Skills:

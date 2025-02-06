@@ -1,6 +1,5 @@
 # Olá, me chamo Grazyella Gonçalves! 🌿
-Sou estudante de desenvolvimento de sistemas, apaixonada por jogos e pela língua inglesa! 
-Atualmente estudo linguagem java pela universidade, como também desenvolvimento front-end pela alura.
+Sou estudante de Análise e Desenvolvimento de Sistemas, com uma grande paixão por jogos, design, arte e pela língua inglesa. Sempre em busca de aprender novas tecnologias e melhorar minhas habilidades! Além disso, adoro explorar o universo do design e da criatividade, combinando minha paixão por arte com minha jornada no mundo da programação.
 
 
 📖 Inglês | Português

@@ -9,9 +9,14 @@ Atualmente estudo linguagem java pela universidade, como também desenvolvimento
 
 <img align='center' alt='html5' src='https://i.pinimg.com/originals/93/9e/92/939e9273e3d6ef4f281cda31e9e62488.gif'/>
 
-## :keyboard: Hard Skills:
+## 📖 Languages and Technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=java,css,html,figma,idea,vscode&theme=dark)](https://skillicons.dev)
+[![Studying now:](https://skillicons.dev/icons?i=java,css,html&theme=dark)](https://skillicons.dev)
+<br/>
+
+## :computer: IDEs I work with:
+[![IDEs I work with:](https://skillicons.dev/icons?i=figma,idea,vscode&theme=dark)](https://skillicons.dev)
+
 
 </div> <br/>
 

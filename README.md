@@ -14,8 +14,8 @@ Atualmente estudo linguagem java pela universidade, como também desenvolvimento
 [![Studying now:](https://skillicons.dev/icons?i=java,css,html&theme=dark)](https://skillicons.dev)
 <br/>
 
-## :computer: IDEs I work with:
-[![IDEs I work with:](https://skillicons.dev/icons?i=figma,idea,vscode&theme=dark)](https://skillicons.dev)
+## :computer: Applications I use:
+[![IDEs I work with:](https://skillicons.dev/icons?i=idea,vscode,eclipse,figma,ps&theme=dark)](https://skillicons.dev)
 
 
 </div> <br/>

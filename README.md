@@ -12,7 +12,6 @@ Atualmente estudo linguagem java pela universidade, como também desenvolvimento
 ## :keyboard: Hard Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=java,css,html,figma,idea,vscode&theme=dark)](https://skillicons.dev)
-> Soft Skills: Organização, trabalho em equipe, responsabilidade acerca de projetos e adaptabilidade.
 
 </div> <br/>
 

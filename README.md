@@ -10,7 +10,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, com uma grande paixão 
 
 ## 📖 Languages and Technologies:
 
-[![Studying now:](https://skillicons.dev/icons?i=java,css,html&theme=dark)](https://skillicons.dev)
+[![Studying now:](https://skillicons.dev/icons?i=java,nodejs,python,javascript,css,html&theme=dark)](https://skillicons.dev)
 <br/>
 
 ## :computer: Applications I use:

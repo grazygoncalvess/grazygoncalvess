@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6bff89"/>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=29&pause=1000&color=F7F7F7&width=650&lines=Hi+there!+I'm+Grazyella+Gon%C3%A7alves+%F0%9F%8C%BF" alt="Typing SVG" />
@@ -59,3 +61,4 @@
 
 </details>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6bff89&height=100&section=footer"/>
